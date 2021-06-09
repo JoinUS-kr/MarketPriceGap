@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
 using Binance.Net;
+using Binance.Net.Enums;
+using Binance.Net.Objects;
+using Binance.Net.Objects.Spot;
 using Discord;
 
 namespace MarketPriceGap
